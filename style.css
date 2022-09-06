@@ -1,0 +1,180 @@
+/* texts */
+.header{
+  position: absolute;
+width: 192px;
+height: 108px;
+left: 110px;
+top: 165px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 61px;
+
+color: #EDEDEE;
+}
+.img{
+  display: flex;
+  background-image: url(signup bg.png);
+  background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+
+}
+.texts{
+position: absolute;
+width: 588px;
+height: 473px;
+left: 110px;
+top: 276px;
+}
+.welcome{
+  position: absolute;
+width: 197px;
+height: 42px;
+left: 10px;
+top: 30px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 25px;
+
+color: #EDEDEE;
+}
+
+.login
+{
+position: absolute;
+width: 588px;
+height: 70px;
+left: 10px;
+top: 85px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 61px;
+
+color: #EDEDEE;
+}
+.signup{
+  position: absolute;
+width: 335px;
+height: 26px;
+left: 10px;
+top: 168px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 21px;
+
+color: #EDEDEE;
+}
+.email{
+  position: absolute;
+width: 512px;
+height: 65px;
+left: 10px;
+top: 243px;
+
+background: #3D404A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+.email-text{
+  position: absolute;
+width: 70px;
+height: 22px;
+left: 47px;
+top: 264px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #EDEDEE;
+}
+.password{
+  position: absolute;
+  width: 512px;
+  height: 65px;
+  left: 10px;
+  top: 326px;
+
+  background: #3D404A;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+.password-text{
+  position: absolute;
+  width: 105px;
+  height: 23px;
+  left: 47px;
+  top: 347px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 21px;
+
+  color: #EDEDEE;
+}
+.btn
+{
+  position: absolute;
+width: 195px;
+height: 65px;
+left: 10px;
+top: 438px;
+
+background: #1D90F4;
+border-radius: 32.5px;
+}
+.btn-text{
+  position: absolute;
+width: 57px;
+height: 17px;
+left: 79px;
+top: 462px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 19px;
+
+color: #EDEDEE;
+}
+.forgot{
+  position: absolute;
+  width: 166px;
+  height: 17px;
+  left: 238px;
+  top: 462px;
+
+
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 19px;
+
+  color: #EDEDEE;
+}
