@@ -15,17 +15,23 @@ line-height: 61px;
 color: #EDEDEE;
 }
 .img{
-  display: flex;
-  background-image: url(signup bg.png);
-  background-color: #000000;
+
+  background-image: url("signup bg.png");
+  background-color: #02ff;
     background-repeat: no-repeat;
     background-position: center;
 width: 1440px;
 height: 1024px;
 left: 0px;
 top: 0px;
-
-
+}
+.img::before{
+  background-color: rgba(0, 0, 0, 0.37);
+  content: '';
+  display: block;
+  height: 1024px;
+  position: absolute;
+  width: 1440px;
 }
 .texts{
 position: absolute;
