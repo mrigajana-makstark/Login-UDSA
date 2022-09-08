@@ -1,0 +1,224 @@
+.header{
+  position: absolute;
+width: 192px;
+height: 108px;
+left: 110px;
+top: 165px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 61px;
+
+color: #EDEDEE;
+}
+.img{
+
+  background-image: url("signup bg.png");
+  background-color: #02ff;
+    background-repeat: no-repeat;
+    background-position: center;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+}
+.img::before{
+  background-color: rgba(0, 0, 0, 0.37);
+  content: '';
+  display: block;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+.texts{
+  position: relative;
+width: 609px;
+height: 577px;
+left: 5px;
+top: -950px;
+
+}
+.welcome{
+  position: absolute;
+width: 197px;
+height: 42px;
+left: 1198px;
+top: 277px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 25px;
+
+color: #EDEDEE;
+}
+.signup{
+  position: absolute;
+  width: 588px;
+  height: 70px;
+  left: 807px;
+  top: 326px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 61px;
+
+  color: #EDEDEE;
+}
+.login{
+  position: absolute;
+  width: 277px;
+  height: 26px;
+  left: 1118px;
+  top: 416px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 21px;
+
+  color: #EDEDEE;
+}
+.firstname{
+  position: absolute;
+width: 262px;
+height: 65px;
+left: 904px;
+top: 498px;
+
+background: #3D404A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+.lastname{
+  position: absolute;
+  width: 230px;
+  height: 65px;
+  left: 1186px;
+  top: 498px;
+
+  background: #3D404A;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+.firstname-text{
+  position: absolute;
+  width: 116px;
+  height: 22px;
+  left: 952px;
+  top: 521px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 21px;
+  /* identical to box height */
+
+
+  color: #EDEDEE;
+}
+.lastname-text{
+  position: absolute;
+  width: 116px;
+  height: 22px;
+  left: 1216px;
+  top: 517px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 21px;
+  /* identical to box height */
+
+
+  color: #EDEDEE;
+}
+.email{
+  position: absolute;
+  width: 512px;
+  height: 65px;
+  left: 904px;
+  top: 583px;
+
+  background: #3D404A;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+.email-text{
+  position: absolute;
+  width: 70px;
+  height: 22px;
+  left: 952px;
+  top: 604px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 21px;
+  /* identical to box height */
+
+
+  color: #EDEDEE;
+}
+.password{
+  position: absolute;
+  width: 512px;
+  height: 65px;
+  left: 904px;
+  top: 666px;
+
+  background: #3D404A;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+}
+.password-text{
+  position: absolute;
+  width: 105px;
+  height: 23px;
+  left: 952px;
+  top: 687px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 21px;
+
+  color: #EDEDEE;
+}
+.btn{
+  position: absolute;
+  width: 195px;
+  height: 65px;
+  left: 1221px;
+  top: 789px;
+
+  background: #1D90F4;
+  border-radius: 32.5px;
+}
+.btn-text{
+  position: absolute;
+  width: 140px;
+  height: 19px;
+  left: 1249px;
+  top: 812px;
+
+  font-family: 'Comfortaa';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 19px;
+  /* identical to box height */
+
+
+  color: #EDEDEE;
+}
